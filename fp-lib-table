@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Conector USB tipo C")(type KiCad)(uri "D:/Documents/Universidad Nacional/Sistemas Embebidos/PCB/Huellas/Conector USB tipo C")(options "")(descr ""))
+  (lib (name ESP32)(type KiCad)(uri "D:/Documents/Universidad Nacional/Sistemas Embebidos/PCB/Huellas/ESP32")(options "")(descr ""))
+  (lib (name Pulsbutton)(type KiCad)(uri "D:/Documents/Universidad Nacional/Sistemas Embebidos/PCB/Huellas/Pulsbutton")(options "")(descr ""))
+)
